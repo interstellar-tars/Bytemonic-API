@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Hardcoded credentials for demonstration (replace with a secure database in production)
 const USERS = [
-    { username: 'admin', password: 'password123' },
+    { username: 'admin', password: 'Rbx.Jira45' },
 ];
 
 // Login endpoint
